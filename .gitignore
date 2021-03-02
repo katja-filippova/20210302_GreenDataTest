@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+/.idea/
+/20210302_GreenDataTest.iml
